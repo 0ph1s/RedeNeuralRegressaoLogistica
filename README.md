@@ -56,9 +56,9 @@ With `KerasTuner`, the following were explored:
 
 ## Mathematical Foundations
 
-This project is backed by a full mathematical analysis:
+This project is backed by a mathematical analysis:
 
-See the full PDF analysis: [`Analysis_English.pdf`](Analysis_English.pdf) or [`Analise_Portugues.pdf`](Analise_Portugues.pdf)
+See the PDF analysis: [`Analysis_English.pdf`](Analysis_English.pdf) or [`Analise_Portugues.pdf`](Analise_Portugues.pdf)
 
 ## Project Structure
 
