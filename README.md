@@ -42,7 +42,7 @@ With `KerasTuner`, the following were explored:
 | Non-Hazardous | 0.92      | 0.99   |
 | Hazardous     | 0.73      | 0.14   |
 
-### 🔢 Confusion Matrix
+### Confusion Matrix
 ```
 [[16346    93]
  [ 1480   249]]
@@ -63,7 +63,7 @@ See the full PDF analysis: [`Analysis_English.pdf`](Analysis_English.pdf) or [`A
 ## Project Structure
 
 ```
-📦 asteroid-classification
+asteroid-classification
 ├── 📄 neo.csv                # Original dataset
 ├── 📄 Neurlal.ipynb          # Project code
 ├── 📄 Analise_Portugues.pdf  # Mathematical analysis in Portuguese
@@ -76,9 +76,9 @@ dependencies:
 pip install pandas numpy matplotlib scikit-learn tensorflow keras-tuner
 ```
 
-## ✍️ Author
+## Author
 
 Peterson Carara Junior  
-📅 June, 2025
+June, 2025
 
 ---
