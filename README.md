@@ -1,4 +1,4 @@
-# 🌌 Asteroid Classification with Neural Networks
+# Asteroid Classification with Neural Networks
 
 This project uses **Artificial Neural Networks** to classify asteroids as **hazardous** or **non-hazardous** based on astronomical data. The network is trained using **binary logistic regression**, **gradient descent**, and automatic hyperparameter tuning via **KerasTuner**.
 
