@@ -78,7 +78,7 @@ pip install pandas numpy matplotlib scikit-learn tensorflow keras-tuner
 
 ## Author
 
-Peterson Carara Junior  
+Peterson Carara
 June, 2025
 
 ---
